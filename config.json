@@ -1,0 +1,25 @@
+{
+  "font": {
+    "size": 32
+  },
+  "game": {
+    "defaultHp": 4,
+    "itemsPerRoundMax": 5,
+    "itemsPerRoundMin": 0,
+    "maxPlayers": 4,
+    "maxPlayersCap": 8,
+    "reconnectTimeout": 60
+  },
+  "modes": [
+    "single",
+    "multiplayer"
+  ],
+  "network": {
+    "port": 7777,
+    "syncHz": 10
+  },
+  "window": {
+    "height": 720,
+    "width": 1280
+  }
+}

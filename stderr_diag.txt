@@ -1,0 +1,1 @@
+Assertion failed: !ok && "目标无道具时肾上腺素应失败", file headless_test.cpp, line 410

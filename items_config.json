@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "name": "肾上腺素",
+      "pvpOnly": true,
+      "type": "adrenaline",
+      "weight": 2
+    },
+    {
+      "name": "啤酒",
+      "pvpOnly": false,
+      "type": "beer",
+      "weight": 3
+    },
+    {
+      "name": "香烟",
+      "pvpOnly": false,
+      "type": "cigarette",
+      "weight": 3
+    },
+    {
+      "name": "过期药品",
+      "pvpOnly": false,
+      "type": "expiredmed",
+      "weight": 2
+    },
+    {
+      "name": "手铐",
+      "pvpOnly": true,
+      "type": "handcuff",
+      "weight": 2
+    },
+    {
+      "name": "放大镜",
+      "pvpOnly": false,
+      "type": "magnifier",
+      "weight": 3
+    },
+    {
+      "name": "反转器",
+      "pvpOnly": false,
+      "type": "reverser",
+      "weight": 2
+    },
+    {
+      "name": "手锯",
+      "pvpOnly": false,
+      "type": "saw",
+      "weight": 2
+    }
+  ]
+}
